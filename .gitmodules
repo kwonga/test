@@ -1,0 +1,3 @@
+[submodule "andys-demo"]
+	path = andys-demo
+	url = ssh://akwong@sitebuilder.panasonic.aero:9922/internal-ise-domain/andys-demo.git
